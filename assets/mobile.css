@@ -391,8 +391,8 @@
         padding-top: 30px;
         background-color: transparent;
         z-index: 99999;
-        color: #AC0D0D;
-        background-color: white;
+        color: black;
+        background-color: #AC0D0D;
     }
 
     .htb-box{
@@ -423,8 +423,8 @@
         left: -9px;
         background-color: transparent;
         z-index: 99999;
-        color: #AC0D0D;
-        background-color: white;
+        color: #F0C929;
+        background-color: #AC0D0D;
         text-align: center;
     }
 

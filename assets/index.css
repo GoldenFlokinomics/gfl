@@ -491,8 +491,8 @@ body{
         left: -10px;
         background-color: transparent;
         z-index: 99999;
-        color: #AC0D0D;
-        background-color: white;
+        color: black;
+        background-color: #AC0D0D;
         padding-top: 30px;
     }
 
@@ -526,9 +526,9 @@ body{
         padding-top: 30px;
         background-color: transparent;
         z-index: 99999;
-        color: #AC0D0D;
+        color: #F0C929;
         text-align: left;
-        background-color: white;
+        background-color: #AC0D0D;
     }
 
     .faq p{
